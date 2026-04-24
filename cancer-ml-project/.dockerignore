@@ -1,0 +1,13 @@
+.git
+.github
+.pytest_cache
+.tmp
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+artifacts
+data
+mlruns
+tests
+pytest-cache-files-*

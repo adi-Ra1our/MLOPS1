@@ -1,0 +1,12 @@
+.pytest_cache/
+.vscode/
+data/
+mlflow.db
+
+cancer-ml-project/.tmp/
+cancer-ml-project/mlruns/
+cancer-ml-project/__pycache__/
+cancer-ml-project/.pytest_cache/
+cancer-ml-project/pytest-cache-files-*/
+cancer-ml-project/src/__pycache__/
+cancer-ml-project/tests/__pycache__/
