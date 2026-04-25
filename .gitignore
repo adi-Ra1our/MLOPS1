@@ -3,6 +3,12 @@
 data/
 mlflow.db
 
+!cancer-ml-project/data/
+cancer-ml-project/data/*
+!cancer-ml-project/data/raw/
+cancer-ml-project/data/raw/*
+!cancer-ml-project/data/raw/The_Cancer_data_1500_V2.csv
+
 cancer-ml-project/.tmp/
 cancer-ml-project/mlruns/
 cancer-ml-project/__pycache__/
